@@ -141,6 +141,9 @@ html, body {
 .intro-text {
   font-family: var(--font-cursive);
   font-size: clamp(2rem, 6vw, 3.2rem);
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   color: var(--accent-rose);
   opacity: 0;
   animation: fadeUp 1s 0.5s ease forwards;
