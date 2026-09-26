@@ -380,11 +380,24 @@ html, body {
    ------------------------------------------ */
 @media (max-width: 600px) {
   .sticker-img {
-    width: min(72vw, 260px);
+    width: min(76vw, 250px);
   }
   
   .deco {
-    font-size: 1.2rem;
+    font-size: 1.15rem;
+  }
+
+  .intro-text {
+    font-size: clamp(1.8rem, 7.5vw, 2.4rem);
+    text-align: center;
+    padding: 0 16px;
+  }
+
+  .rbtn {
+    padding: 11px 28px;
+    font-size: 1.05rem;
+    bottom: 25px;
   }
 }
+
 
