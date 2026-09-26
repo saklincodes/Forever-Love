@@ -7,10 +7,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-blue?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br />
 
-**[🌐 Experience Live Demo](https://saklincodes.github.io/Forever-Love/)** • **[📖 Documentation](#-customization-guide)** • **[🚀 Quick Start](#-quick-start)**
+**[🚀 Vercel Live Demo](https://forever-love-theta.vercel.app)** • **[🌐 GitHub Pages Demo](https://saklincodes.github.io/Forever-Love/)** • **[📖 Documentation](#-customization-guide)**
+
 
 </div>
 
